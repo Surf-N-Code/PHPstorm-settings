@@ -6,6 +6,7 @@
       <mapping pattern="app_liveChartjs" type="PLAIN_TEXT" />
       <mapping pattern="ewz_recaptcha.yaml" type="PLAIN_TEXT" />
       <mapping pattern=".env_PROD_ENV" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="-100" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
       <mapping pattern="250" type="PLAIN_TEXT" />
