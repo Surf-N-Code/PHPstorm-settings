@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="ccl" value="echo &quot;$END$&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

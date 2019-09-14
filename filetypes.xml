@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="app_liveChartjs" type="PLAIN_TEXT" />
+      <mapping pattern="ewz_recaptcha.yaml" type="PLAIN_TEXT" />
+      <mapping pattern=".env_PROD_ENV" type="PLAIN_TEXT" />
+      <mapping pattern="-100" type="PLAIN_TEXT" />
+      <mapping pattern="helper" type="PLAIN_TEXT" />
+      <mapping pattern="250" type="PLAIN_TEXT" />
+      <mapping pattern="ngrok" type="PLAIN_TEXT" />
+      <mapping pattern="deyploy_new" type="PLAIN_TEXT" />
+      <mapping pattern="Subscription.json" type="PLAIN_TEXT" />
+      <mapping pattern="unsubscribe" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="4" type="PLAIN_TEXT" />
+      <mapping pattern="_lineWithText_v2" type="SCSS" />
+      <mapping pattern="sql" type="SQL" />
+      <mapping pattern="encoreAbsoluteCssUrls" type="Twig" />
+      <mapping pattern="encoreAbsoluteJsUrls" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
