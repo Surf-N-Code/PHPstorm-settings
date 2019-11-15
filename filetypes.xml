@@ -21,6 +21,7 @@
       <mapping pattern="_lineWithText_v2" type="SCSS" />
       <mapping pattern="sql" type="SQL" />
       <mapping pattern="encoreAbsoluteCssUrls" type="Twig" />
+      <mapping pattern="homeListFeatures" type="Twig" />
       <mapping pattern="encoreAbsoluteJsUrls" type="Twig" />
     </extensionMap>
   </component>
