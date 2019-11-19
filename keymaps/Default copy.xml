@@ -25,7 +25,6 @@
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="PreviousTab">
@@ -33,5 +32,11 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta #10000b4" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
 </keymap>
