@@ -4,5 +4,9 @@
       <display-name>Liquid JSON</display-name>
       <place><![CDATA[twigCustomStatement("schema")]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="twig">
+      <display-name>Liquid Javascript</display-name>
+      <place><![CDATA[twigCustomStatement("javascript")]]></place>
+    </injection>
   </component>
 </application>
