@@ -24,6 +24,10 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta less" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
