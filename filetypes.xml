@@ -5,7 +5,9 @@
       <mapping pattern="Endpoint" type="PHP" />
       <mapping pattern="Psr7HttplugEndpoint" type="PHP" />
       <mapping pattern="-100" type="PLAIN_TEXT" />
+      <mapping pattern="main_scripts_removed" type="PLAIN_TEXT" />
       <mapping pattern="app_liveChartjs" type="PLAIN_TEXT" />
+      <mapping pattern="main_scripts" type="PLAIN_TEXT" />
       <mapping pattern="ewz_recaptcha.yaml" type="PLAIN_TEXT" />
       <mapping pattern=".env_PROD_ENV" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
